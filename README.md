@@ -97,9 +97,8 @@ o	Assists in identifying performance bottlenecks.
 4.	Usage in Spring:
 o	Spring Boot uses SLF4J with Logback as the default logging implementation.
 o	Common logging levels: TRACE, DEBUG, INFO, WARN, ERROR.
-o	Example usage:
-java
-Copy code
+o	Example how to use it in intelliJ or any compiler:
+
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
